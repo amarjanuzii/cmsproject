@@ -1,0 +1,192 @@
+{
+  "hero": {
+    "title": "Navigating the digital landscape for success",
+    "subtitle": "Transform your digital presence with our innovative solutions",
+    "ctaButton": {
+      "text": "Get Started",
+      "link": "/contact"
+    },
+    "trustedBy": {
+      "title": "Trusted by",
+      "companies": ["Amazon", "Netflix", "Spotify", "Hubspot", "Zoom"]
+    }
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Digital Marketing",
+      "description": "Strategic online presence",
+      "bgColor": "var(--primary-green)",
+      "icon": "🎯",
+      "link": "/services/digital-marketing"
+    },
+    {
+      "id": 2,
+      "title": "SEO Optimization",
+      "description": "Improve your visibility",
+      "bgColor": "var(--primary-green)",
+      "icon": "📈",
+      "link": "/services/seo"
+    },
+    {
+      "id": 3,
+      "title": "Market Analysis",
+      "description": "Data-driven insights",
+      "bgColor": "var(--dark)",
+      "icon": "📊",
+      "link": "/services/market-analysis"
+    },
+    {
+      "id": 4,
+      "title": "Content Strategy",
+      "description": "Engaging storytelling",
+      "bgColor": "var(--light)",
+      "icon": "✏️",
+      "link": "/services/content"
+    },
+    {
+      "id": 5,
+      "title": "Brand Development",
+      "description": "Build your identity",
+      "bgColor": "var(--dark)",
+      "icon": "🎨",
+      "link": "/services/branding"
+    },
+    {
+      "id": 6,
+      "title": "Social Media",
+      "description": "Connect with audience",
+      "bgColor": "var(--primary-green)",
+      "icon": "🌐",
+      "link": "/services/social-media"
+    }
+  ],
+  "workingProcess": {
+    "title": "Our Working Process",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Consultation",
+        "description": "Initial meeting to understand your goals and requirements"
+      },
+      {
+        "id": 2,
+        "title": "Research and Strategy Development",
+        "description": "Analyzing market trends and creating tailored strategies"
+      },
+      {
+        "id": 3,
+        "title": "Implementation",
+        "description": "Executing the planned strategies with precision"
+      },
+      {
+        "id": 4,
+        "title": "Monitoring and Optimization",
+        "description": "Continuous tracking and improvement of results"
+      },
+      {
+        "id": 5,
+        "title": "Reporting and Communication",
+        "description": "Regular updates and transparent communication"
+      },
+      {
+        "id": 6,
+        "title": "Continuous Improvement",
+        "description": "Iterative refinement based on performance data"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "text": "Working with this team has transformed our digital presence completely.",
+      "author": "Sarah Johnson",
+      "position": "Marketing Director",
+      "company": "Tech Solutions Inc."
+    },
+    {
+      "id": 2,
+      "text": "The results we've seen in our SEO and digital marketing have been remarkable.",
+      "author": "Michael Chen",
+      "position": "CEO",
+      "company": "Growth Startup"
+    },
+    {
+      "id": 3,
+      "text": "Their strategic approach to content has helped us connect better with our audience.",
+      "author": "Emma Davis",
+      "position": "Brand Manager",
+      "company": "Creative Co."
+    }
+  ],
+  "contact": {
+    "title": "Let's make things happen",
+    "subtitle": "Ready to transform your digital presence?",
+    "formFields": [
+      {
+        "id": "name",
+        "label": "Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "id": "message",
+        "label": "Message",
+        "type": "textarea",
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "Send Message"
+    }
+  },
+  "footer": {
+    "logo": "Positivus",
+    "socialLinks": [
+      {
+        "platform": "LinkedIn",
+        "url": "#",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "#",
+        "icon": "twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "#",
+        "icon": "instagram"
+      }
+    ],
+    "navigation": [
+      {
+        "title": "Home",
+        "link": "/"
+      },
+      {
+        "title": "About",
+        "link": "/about"
+      },
+      {
+        "title": "Services",
+        "link": "/services"
+      },
+      {
+        "title": "Contact",
+        "link": "/contact"
+      }
+    ],
+    "contact": {
+      "address": "123 Business Street, Suite 100",
+      "email": "hello@positivus.com",
+      "phone": "+1 (555) 123-4567"
+    }
+  }
+}
