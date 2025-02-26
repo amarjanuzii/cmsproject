@@ -1,7 +1,7 @@
 :root {
-  --primary-green: #b9ff66;
-  --dark: #191a23;
-  --light: #f3f3f3;
+  --primary-green: #8ace00;
+  --dark: #141418;
+  --light: #ffffff;
 }
 
 body {
@@ -16,9 +16,7 @@ body {
 }
 
 nav {
-  background-color: var(--dark);
   padding: 1rem 2rem;
-  border-bottom: 1px solid var(--light);
 }
 
 nav ul {
